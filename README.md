@@ -70,7 +70,7 @@ Abaixo estão as principais telas do aplicativo **MyCar**, desenvolvido para aju
 ### 🖼️ Protótipo Visual MyCar  
 Interface inicial com seleção de veículo, lembrete de manutenção e navegação intuitiva.
 
-![Protótipo Visual MyCar](Protótipo/Visual/MyCar.png)
+![Protótipo Visual MyCar](Protótipo%20Visual%20MyCar.jpg)
 
 ---
 
