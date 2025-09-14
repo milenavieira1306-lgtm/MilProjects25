@@ -77,7 +77,7 @@ Interface inicial com seleção de veículo, lembrete de manutenção e navegaç
 ### 📱 Telas adicionais MyCar  
 Cadastro de veículo, configurações de lembrete e histórico de manutenções.
 
-![Telas adicionais MyCar](./images/telas-adicionais-mycar.png)
+![Telas adicionais MyCar](Telas%20adicionais%20MyCar.jpg)
 
 ---
 
