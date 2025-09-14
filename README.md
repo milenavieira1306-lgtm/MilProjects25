@@ -27,11 +27,11 @@ O backlog completo está registrado nas **Issues** do repositório:
 ![Diagrama de Casos de Uso](Use%20Case%20Diagram%20(1).jpg)
 
 
-> O diagrama acima mostra os principais atores (usuário) e casos de uso do sistema **MyCar**.
+> O diagrama acima mostra o principal ator (usuário) e casos de uso do sistema **MyCar**.
 
 ---
 
-## Roadmap por Milestone
+## Milestones
 - **Milestone 1: Cadastro e Informações do Carro**  
   - Criar conta de usuário  
   - Cadastrar informações do carro  
@@ -51,8 +51,42 @@ O backlog completo está registrado nas **Issues** do repositório:
   - Visualização geral de prazos
 
 ---
+## Protótipos do App MyCar 🚗
 
-## Tecnologias (sugeridas)
+Abaixo estão as telas principais do aplicativo MyCar:
+
+- Tela de Login
+- Tela de Perfil
+- Cadastro de Veículo
+- Configurações de Lembrete
+- Histórico de Manutenções
+## UI/UX (protótipo das telas)
+## Protótipos do App MyCar 🚗
+
+Abaixo estão as principais telas do aplicativo **MyCar**, desenvolvido para ajudar motoristas a manter seus veículos em dia com manutenções e obrigações.
+
+---
+
+### 🖼️ Protótipo Visual MyCar  
+Interface inicial com seleção de veículo, lembrete de manutenção e navegação intuitiva.
+
+![Protótipo Visual MyCar](./images/prototipo-visual-mycar.png)
+
+---
+
+### 📱 Telas adicionais MyCar  
+Cadastro de veículo, configurações de lembrete e histórico de manutenções.
+
+![Telas adicionais MyCar](./images/telas-adicionais-mycar.png)
+
+---
+
+### 👤 Telas adicionais 2 MyCar  
+Tela de login e perfil do usuário com acesso às configurações e veículos cadastrados.
+
+![Telas adicionais 2 MyCar](./images/telas-adicionais-2-mycar.png)
+
+## Tecnologias (sugeridas)?
 - **Frontend:** React Native / Flutter  
 - **Backend:** Node.js / Django  
 - **Banco de Dados:** PostgreSQL / MongoDB  
