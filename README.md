@@ -24,7 +24,7 @@ O backlog completo está registrado nas **Issues** do repositório:
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](casos%20de%20uso.png)
+
 
 > O diagrama acima mostra os principais atores (usuário) e casos de uso do sistema **MyCar**.
 
