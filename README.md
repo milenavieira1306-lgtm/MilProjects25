@@ -15,7 +15,7 @@ O objetivo é oferecer uma interface simples e intuitiva que ajude o usuário a 
 ---
 
 ## Backlog do Projeto
-O backlog completo nas **Issues** do repositório:
+O backlog completo está nas **Issues** do repositório:
 
 🔗 [Ver todas as Issues](../../issues)  
 🔗 [Ver Milestones](../../milestones)
@@ -52,7 +52,7 @@ O backlog completo nas **Issues** do repositório:
 
 ---
 
-## Protótipos do projeto MyCar 🚗 (UI/UX)
+## Protótipos do projeto MyCar (UI/UX)
 Abaixo estão as principais telas do aplicativo MyCar:
 
 - Tela de Login
