@@ -15,7 +15,7 @@ O objetivo é oferecer uma interface simples e intuitiva que ajude o usuário a 
 ---
 
 ## Backlog do Projeto
-O backlog completo está registrado nas **Issues** do repositório:
+O backlog completo nas **Issues** do repositório:
 
 🔗 [Ver todas as Issues](../../issues)  
 🔗 [Ver Milestones](../../milestones)
@@ -51,40 +51,36 @@ O backlog completo está registrado nas **Issues** do repositório:
   - Visualização geral de prazos
 
 ---
-## Protótipos do App MyCar 🚗
 
-Abaixo estão as telas principais do aplicativo MyCar:
+## Protótipos do projeto MyCar 🚗 (UI/UX)
+Abaixo estão as principais telas do aplicativo MyCar:
 
 - Tela de Login
 - Tela de Perfil
 - Cadastro de Veículo
 - Configurações de Lembrete
 - Histórico de Manutenções
-## UI/UX (protótipo das telas)
-## Protótipos do App MyCar 🚗
-
-Abaixo estão as principais telas do aplicativo **MyCar**, desenvolvido para ajudar motoristas a manter seus veículos em dia com manutenções e obrigações.
 
 ---
 
-### 🖼️ Protótipo Visual MyCar  
-Interface inicial com seleção de veículo, lembrete de manutenção e navegação intuitiva.
+### Protótipo Visual MyCar  
+Interface inicial com seleção de veículo e lembrete de manutenção.
 
 ![Protótipo Visual MyCar](Protótipo%20Visual%20MyCar.jpg)
 
 ---
 
-### 📱 Telas adicionais MyCar  
+### Telas adicionais MyCar  
 Cadastro de veículo, configurações de lembrete e histórico de manutenções.
 
 ![Telas adicionais MyCar](Telas%20adicionais%20MyCar.jpg)
 
 ---
 
-### 👤 Telas adicionais 2 MyCar  
+### Telas adicionais 2 MyCar  
 Tela de login e perfil do usuário com acesso às configurações e veículos cadastrados.
 
-![Telas adicionais 2 MyCar](./images/telas-adicionais-2-mycar.png)
+![Telas adicionais 2 MyCar](Telas%20adicionais%202%20MyCar.jpg)
 
 ## Tecnologias (sugeridas)?
 - **Frontend:** React Native / Flutter  
