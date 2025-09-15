@@ -1,3 +1,5 @@
+Milena Vieira dos Santos, Eng. de Software 1, ADS 2/2025
+
 # 🚗 MyCar
 
 O **MyCar** é um projeto que visa auxiliar motoristas no gerenciamento de veículos, prazos de manutenção e lembretes automáticos.  
@@ -82,15 +84,11 @@ Tela de login e perfil do usuário com acesso às configurações e veículos ca
 
 ![Telas adicionais 2 MyCar](Telas%20adicionais%202%20MyCar.jpg)
 
-## Tecnologias (sugeridas)?
-- **Frontend:** React Native / Flutter  
-- **Backend:** Node.js / Django  
-- **Banco de Dados:** PostgreSQL / MongoDB  
-- **Notificações:** Firebase Cloud Messaging ou serviço de e-mail  
+## Tecnologias Usadas
+- Miro (Diagrama de Casos de Uso); Microsoft Copilot (Protótipos Visuais); Backlog (GitHub)
 
 ---
 
-## Licença
-Este projeto é de uso acadêmico/educacional.  
+## Uso acadêmico/educacional.  
 
 
