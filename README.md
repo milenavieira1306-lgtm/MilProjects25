@@ -21,7 +21,7 @@ O backlog completo está nas **Issues** do repositório:
 
 🔗 [Ver todas as Issues](../../issues)  
 🔗 [Ver Milestones](../../milestones)
-
+> Requisitos Não Funcionais incluídos
 ---
 
 ## Diagrama de Casos de Uso
@@ -34,6 +34,7 @@ O backlog completo está nas **Issues** do repositório:
 ---
 
 ## Milestones
+> Requisitos Funcionais
 - **Milestone 1: Cadastro e Informações do Carro**  
   - Criar conta de usuário  
   - Cadastrar informações do carro  
