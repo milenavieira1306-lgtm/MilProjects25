@@ -33,6 +33,55 @@ O backlog completo está nas **Issues** do repositório:
 
 ---
 
+# Histórias de Usuário - MyCar (Formato Gherkin)
+
+## 1. Cadastro de Veículo
+Feature: Cadastro de veículo
+  Como usuário
+  Quero cadastrar meu carro no aplicativo
+  Para poder gerenciar informações e manutenções
+
+  Scenario: Usuário cadastra um carro com dados válidos
+    Given que o usuário esteja logado no sistema
+    When ele acessar a tela de "Adicionar Veículo" e preencher marca, modelo, ano e placa corretamente
+    Then o sistema deve salvar o novo veículo e exibir uma mensagem de sucesso.
+
+ ## 2. Registro de Manutenção
+ Feature: Registro de manutenção
+  Como usuário
+  Quero registrar as manutenções do meu carro
+  Para acompanhar o histórico e custos
+
+  Scenario: Usuário registra uma manutenção com dados completos
+    Given que o usuário já tenha um veículo cadastrado
+    When ele acessar a seção "Manutenções" e adicionar uma revisão com data, descrição e valor
+    Then o sistema deve salvar o registro e atualizar o histórico do veículo.
+
+ ## 3. Notificação de Revisão
+ Feature: Notificação de revisão
+  Como usuário
+  Quero receber alertas de manutenção preventiva
+  Para não esquecer de revisar meu carro
+
+  Scenario: Revisão próxima da quilometragem limite
+    Given que o carro do usuário esteja com 9.500 km rodados
+    And exista uma revisão programada para 10.000 km
+    When o usuário acessar o aplicativo
+    Then o sistema deve exibir um alerta informando que a revisão está próxima.
+
+ ## 4. Consulta de Despesas
+ Feature: Consulta de despesas
+  Como usuário
+  Quero visualizar o total gasto com meu veículo
+  Para controlar melhor meus custos
+
+  Scenario: Usuário consulta relatório de despesas
+    Given que o usuário tenha registrado abastecimentos e manutenções
+    When ele acessar a tela de "Relatórios"
+    Then o sistema deve exibir o total de despesas e permitir filtrar por período.
+
+---
+
 ## Milestones
 > Requisitos Funcionais
 - **Milestone 1: Cadastro e Informações do Carro**  
