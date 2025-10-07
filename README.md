@@ -116,6 +116,8 @@ Feature: Cadastro de veículo
 ## Protótipos do projeto MyCar (UI/UX)
 Abaixo estão as principais telas do aplicativo MyCar:
 
+> Wireframes/Projetos de Interface
+
 - Tela de Login
 - Tela de Perfil
 - Cadastro de Veículo
@@ -124,27 +126,41 @@ Abaixo estão as principais telas do aplicativo MyCar:
 
 ---
 
-### Protótipo Visual MyCar  
+## Wireframe da Interface Principal MyCar
+Rascunho da tela principal do aplicativo com saudação e seleção de veículo.
+
+![Wireframe Tela Principal MyCar](Wireframe%201.jpg)
+
+---
+
+## Wireframes Adicionais MyCar
+Rascunho das telas de configurações, histórico e login (cadastro).
+
+![Wireframe Telas adicionais MyCar](Wireframe%202.jpg)
+
+---
+
+### Protótipo de Interface MyCar  
 Interface inicial com seleção de veículo e lembrete de manutenção.
 
 ![Protótipo Visual MyCar](Protótipo%20Visual%20MyCar.jpg)
 
 ---
 
-### Telas adicionais MyCar  
+### Protótipos adicionais 1 MyCar  
 Cadastro de veículo, configurações de lembrete e histórico de manutenções.
 
 ![Telas adicionais MyCar](Telas%20adicionais%20MyCar.jpg)
 
 ---
 
-### Telas adicionais 2 MyCar  
+### Protótipos adicionais 2 MyCar  
 Tela de login e perfil do usuário com acesso às configurações e veículos cadastrados.
 
 ![Telas adicionais 2 MyCar](Telas%20adicionais%202%20MyCar.jpg)
 
 ## Tecnologias Usadas
-- Miro (Diagrama de Casos de Uso); Microsoft Copilot (Protótipos Visuais); Backlog (GitHub)
+- Miro (Diagrama de Casos de Uso); Lucidchart (Diagrama de Sequência); Microsoft Copilot (Protótipos Visuais, Wireframes); Backlog (GitHub)
 
 ---
 
