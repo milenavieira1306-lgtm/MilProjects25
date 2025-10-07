@@ -113,8 +113,8 @@ Feature: Cadastro de veículo
 
 ---
 
-## Protótipos do projeto MyCar (UI/UX)
-Abaixo estão as principais telas do aplicativo MyCar:
+## Protótipos visuais do projeto MyCar (UI/UX)
+Abaixo estão as principais telas do aplicativo **MyCar**:
 
 > Wireframes/Projetos de Interface
 
@@ -126,21 +126,21 @@ Abaixo estão as principais telas do aplicativo MyCar:
 
 ---
 
-## Wireframe da Interface Principal MyCar
+## Wireframe da interface principal MyCar
 Rascunho da tela principal do aplicativo com saudação e seleção de veículo.
 
 ![Wireframe Tela Principal MyCar](Wireframe%201.jpg)
 
 ---
 
-## Wireframes Adicionais MyCar
+## Wireframes adicionais MyCar
 Rascunho das telas de configurações, histórico e login (cadastro).
 
 ![Wireframe Telas Adicionais MyCar](Wireframe%202.jpeg)
 
 ---
 
-### Protótipo de Interface MyCar  
+### Protótipo de interface MyCar  
 Interface inicial com seleção de veículo e lembrete de manutenção.
 
 ![Protótipo Visual MyCar](Protótipo%20Visual%20MyCar.jpg)
