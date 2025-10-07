@@ -33,6 +33,15 @@ O backlog completo está nas **Issues** do repositório:
 
 ---
 
+## Diagrama de Sequência
+
+![Diagrama de Sequência](Diagrama%20de%20Sequência1.jpg)
+
+
+> O diagrama acima mostra o usuário e a sequência de uso do sistema **MyCar**.
+
+---
+
 # Histórias de Usuário - MyCar (Formato Gherkin)
 
 ## 1. Cadastro de Veículo
