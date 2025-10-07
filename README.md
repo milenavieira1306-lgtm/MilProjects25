@@ -136,7 +136,7 @@ Rascunho da tela principal do aplicativo com saudação e seleção de veículo.
 ## Wireframes Adicionais MyCar
 Rascunho das telas de configurações, histórico e login (cadastro).
 
-![Wireframe Telas adicionais MyCar](Wireframe%202.jpg)
+![Wireframe Telas Adicionais MyCar](Wireframe%202.jpg)
 
 ---
 
