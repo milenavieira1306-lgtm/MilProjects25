@@ -46,6 +46,7 @@ O backlog completo está nas **Issues** do repositório:
 
 ## 1. Cadastro de Veículo
 Feature: Cadastro de veículo
+
   Como usuário
   Quero cadastrar meu carro no aplicativo
   Para poder gerenciar informações e manutenções
@@ -57,6 +58,7 @@ Feature: Cadastro de veículo
 
  ## 2. Registro de Manutenção
  Feature: Registro de manutenção
+ 
   Como usuário
   Quero registrar as manutenções do meu carro
   Para acompanhar o histórico e custos
@@ -68,6 +70,7 @@ Feature: Cadastro de veículo
 
  ## 3. Notificação de Revisão
  Feature: Notificação de revisão
+ 
   Como usuário
   Quero receber alertas de manutenção preventiva
   Para não esquecer de revisar meu carro
@@ -80,6 +83,7 @@ Feature: Cadastro de veículo
 
  ## 4. Consulta de Despesas
  Feature: Consulta de despesas
+ 
   Como usuário
   Quero visualizar o total gasto com meu veículo
   Para controlar melhor meus custos
