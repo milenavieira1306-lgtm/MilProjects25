@@ -117,8 +117,8 @@ Feature: Cadastro de veículo
 
 ---
 
-[![Kanban](https://img.shields.io/badge/GitHub-Kanban_Board-blue?logo=github)](https://github.com/milenavieira1306-lgtm/MilProjects25/projects/1)
-https://github.com/users/milenavieira1306-lgtm/projects/3/views/1
+[![Kanban](https://img.shields.io/badge/GitHub-Kanban_Board-blue?logo=github)](https://github.com/users/milenavieira1306-lgtm/projects/3/views/7)
+
 
 ## Protótipos visuais do projeto MyCar (UI/UX)
 Abaixo estão as principais telas do aplicativo **MyCar**:
