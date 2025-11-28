@@ -22,7 +22,7 @@ O objetivo é oferecer uma interface simples e intuitiva que ajude o usuário a 
 https://github.com/users/milenavieira1306-lgtm/projects/3/views/7
 > Cards (Kanban) de progresso/acompanhamento e rastreio das **Issues** 
 
-**Issues** e **Milestones** do repositório:
+### **Issues** e **Milestones** do repositório:
 
 🔗 [Ver todas as Issues](../../issues)  
 🔗 [Ver Milestones](../../milestones)
@@ -123,10 +123,10 @@ Feature: Cadastro de veículo
 
 ---
 
-# Documentação do Projeto: 5W e 2 Hs, Prazos, Objetivos e Definições
+## Documentação do Projeto: 5W e 2 Hs, Prazos, Objetivos e Definições
 
-## **Planejamento Completo**  
-- [Planejamento - **MyCar**:](docs/Planejamento-MyCar.md)
+### **Planejamento Completo**  
+- [Planejamento - **MyCar**](docs/Planejamento-MyCar.md)
 
 ---
 
@@ -157,21 +157,21 @@ Rascunho das telas de configurações, histórico e login (cadastro).
 
 ---
 
-### Protótipo de interface  
+## Protótipo de interface  
 Interface inicial com seleção de veículo e lembrete de manutenção.
 
 ![Protótipo Visual MyCar](Protótipo%20Visual%20MyCar.jpg)
 
 ---
 
-### Protótipos adicionais I
+## Protótipos adicionais I
 Cadastro de veículo, configurações de lembrete e histórico de manutenções.
 
 ![Telas adicionais MyCar](Telas%20adicionais%20MyCar.jpg)
 
 ---
 
-### Protótipos adicionais II  
+## Protótipos adicionais II  
 Tela de login e perfil do usuário com acesso às configurações e veículos cadastrados.
 
 ![Telas adicionais 2 MyCar](Telas%20adicionais%202%20MyCar.jpg)
