@@ -124,9 +124,9 @@ Feature: Cadastro de veículo
 ---
 
 ## Documentação do Projeto: 5W e 2 Hs, Prazos, Objetivos e Definições
-
-### **Planejamento Completo**  
+ 
 - [Planejamento - **MyCar**](docs/Planejamento-MyCar.md)
+> **Documento com planejamento completo** 
 
 ---
 
