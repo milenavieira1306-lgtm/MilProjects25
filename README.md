@@ -20,7 +20,7 @@ O objetivo é oferecer uma interface simples e intuitiva que ajude o usuário a 
 
 [![Kanban](https://img.shields.io/badge/GitHub-Kanban_Board-blue?logo=github)](https://github.com/milenavieira1306-lgtm/MilProjects25/projects/1)
 https://github.com/users/milenavieira1306-lgtm/projects/3/views/7
-> Cards (Kanban) de progresso e rastreio das **Issues** 
+> Cards (Kanban) de progresso/acompanhamento e rastreio das **Issues** 
 
 **Issues** e **Milestones** do repositório:
 
@@ -123,10 +123,10 @@ Feature: Cadastro de veículo
 
 ---
 
-## Documentação do Projeto: 5W e 2 Hs, Prazos, Objetivos e Definições
+# Documentação do Projeto: 5W e 2 Hs, Prazos, Objetivos e Definições
 
-- **Planejamento Completo**  
-![Planejamento - MyCar:](docs/Planejamento-MyCar.md)
+## **Planejamento Completo**  
+- [Planejamento - **MyCar**:](docs/Planejamento-MyCar.md)
 
 ---
 
