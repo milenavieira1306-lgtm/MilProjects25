@@ -1,6 +1,6 @@
 # 📄 Planejamento Completo do Projeto MyCar
 
-## **1. What — O que é o MyCar?**
+## **1. What -- O que é o MyCar?**
 O MyCar é um aplicativo de gerenciamento de veículos que ajuda motoristas a acompanhar manutenções, despesas, prazos e lembretes automáticos dos veículos.
 
 **Principais funcionalidades:**
@@ -13,7 +13,7 @@ O MyCar é um aplicativo de gerenciamento de veículos que ajuda motoristas a ac
 
 ---
 
-## **2. Why — Por que o projeto existe?**
+## **2. Why -- Por que o projeto existe?**
 - Motoristas se esquecem de manutenções e prazos obrigatórios.  
 - Manter o carro em dia reduz riscos, custos e imprevistos.  
 - O mercado carece de apps simples e intuitivos para gestão completa do veículo.  
@@ -21,21 +21,21 @@ O MyCar é um aplicativo de gerenciamento de veículos que ajuda motoristas a ac
 
 ---
 
-## **3. Who — Quem participa (Equipe necessária)?**
+## **3. Who -- Quem participa (Equipe necessária)?**
 | Função | Quantidade | Responsabilidades |
 |--------|------------|------------------|
 | Product Owner | 1 | Requisitos, backlog, priorização |
 | Designer UX/UI | 1 | Telas, protótipos, experiência do usuário |
 | Dev Mobile | 2 | App (Flutter/React Native) |
-| Dev Backend | 1 | API, banco, notificações |
+| Dev Backend | 2 | API, banco, notificações |
 | QA | 1 | Testes, validações |
 | Scrum Master | 1 | Organização, prazos, reuniões |
 
-**Total: 7 pessoas.**
+**Total: 8 pessoas**
 
 ---
 
-## **4. Where — Onde será desenvolvido?**
+## **4. Where -- Onde será desenvolvido?**
 - GitHub (issues, backlog, Kanban, milestones)  
 - Reuniões remotas via Teams/Discord  
 - Figma, Miro, Lucidchart para design e protótipos 
@@ -43,7 +43,7 @@ O MyCar é um aplicativo de gerenciamento de veículos que ajuda motoristas a ac
 
 ---
 
-## **5. When — Cronograma de 1 ano**
+## **5. When -- Cronograma de 1 ano:**
 
 ### **Mês 1–2: Arquitetura, requisitos e protótipos**
 - Arquitetura completa do sistema  
@@ -113,7 +113,7 @@ Requisitos Não Funcionais implementados:
 
 ---
 
-## **7. How Much — Quanto custará o projeto (Período de 1 ano)**
+## **7. How Much -- Quanto custará o projeto (Período de 1 ano)**
 
 ### **Custo anual da equipe (12 meses)**  
 | Função | Qtde | Valor Mensal | Custo Anual |
@@ -128,15 +128,13 @@ Requisitos Não Funcionais implementados:
 **Subtotal equipe: R$ 420.000**
 
 ### Infraestrutura (Firebase, servidores, storage)
-- R$ 1.000 / mês → R$ 12.000 / ano
+- R$ 2.000 / mês → R$ 24.000 / ano
 
 ### Reserva técnica (10%)
 - R$ 43.200
 
----
-
-### **📌 TOTAL ESTIMADO PARA 1 ANO DE DESENVOLVIMENTO:**  
-# **💰 R$ 475.200**
+### **TOTAL ESTIMADO PARA 1 ANO DE DESENVOLVIMENTO:**  
+# **R$ 475.200**
 
 
 
