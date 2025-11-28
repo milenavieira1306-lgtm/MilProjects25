@@ -17,11 +17,17 @@ O objetivo é oferecer uma interface simples e intuitiva que ajude o usuário a 
 ---
 
 ## Backlog do Projeto
-O backlog completo está nas **Issues** do repositório:
+
+[![Kanban](https://img.shields.io/badge/GitHub-Kanban_Board-blue?logo=github)](https://github.com/milenavieira1306-lgtm/MilProjects25/projects/1)
+https://github.com/users/milenavieira1306-lgtm/projects/3/views/7
+> Cards (Kanban) de progresso e rastreio das **Issues** 
+
+**Issues** e **Milestones** do repositório:
 
 🔗 [Ver todas as Issues](../../issues)  
 🔗 [Ver Milestones](../../milestones)
 > Requisitos Não Funcionais incluídos
+
 ---
 
 ## Diagrama de Casos de Uso
@@ -95,7 +101,7 @@ Feature: Cadastro de veículo
 
 ---
 
-## Milestones
+## Principais Milestones
 > Requisitos Funcionais
 - **Milestone 1: Cadastro e Informações do Carro**  
   - Criar conta de usuário  
@@ -117,9 +123,12 @@ Feature: Cadastro de veículo
 
 ---
 
-[![Kanban](https://img.shields.io/badge/GitHub-Kanban_Board-blue?logo=github)](https://github.com/milenavieira1306-lgtm/MilProjects25/projects/1)
-https://github.com/users/milenavieira1306-lgtm/projects/3/views/7
+## Documentação do Projeto: 5W e 2 Hs, Prazos e Objetivos
 
+- **Planejamento Completo**  
+  [Documento completo:](docs/Planejamento-MyCar.md)
+
+---
 
 ## Protótipos visuais do projeto MyCar (UI/UX)
 Abaixo estão as principais telas do aplicativo **MyCar**:
