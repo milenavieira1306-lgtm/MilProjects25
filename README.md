@@ -48,7 +48,7 @@ https://github.com/users/milenavieira1306-lgtm/projects/3/views/7
 
 ---
 
-# Histórias de Usuário - MyCar (Formato Gherkin)
+# Principais Histórias de Usuário - MyCar (Formato Gherkin)
 
 ## 1. Cadastro de Veículo
 Feature: Cadastro de veículo
@@ -123,10 +123,10 @@ Feature: Cadastro de veículo
 
 ---
 
-## Documentação do Projeto: 5W e 2 Hs, Prazos e Objetivos
+## Documentação do Projeto: 5W e 2 Hs, Prazos, Objetivos e Definições
 
 - **Planejamento Completo**  
-  [Documento completo:](docs/Planejamento-MyCar.md)
+![Planejamento - MyCar:](docs/Planejamento-MyCar.md)
 
 ---
 
@@ -143,35 +143,35 @@ Abaixo estão as principais telas do aplicativo **MyCar**:
 
 ---
 
-## Wireframe da interface principal MyCar
+## Wireframe da interface principal
 Rascunho da tela principal do aplicativo com saudação e seleção de veículo.
 
 ![Wireframe Tela Principal MyCar](Wireframe%201.jpg)
 
 ---
 
-## Wireframes adicionais MyCar
+## Wireframes adicionais
 Rascunho das telas de configurações, histórico e login (cadastro).
 
 ![Wireframe Telas Adicionais MyCar](Wireframe%202.jpeg)
 
 ---
 
-### Protótipo de interface MyCar  
+### Protótipo de interface  
 Interface inicial com seleção de veículo e lembrete de manutenção.
 
 ![Protótipo Visual MyCar](Protótipo%20Visual%20MyCar.jpg)
 
 ---
 
-### Protótipos adicionais 1 MyCar  
+### Protótipos adicionais I
 Cadastro de veículo, configurações de lembrete e histórico de manutenções.
 
 ![Telas adicionais MyCar](Telas%20adicionais%20MyCar.jpg)
 
 ---
 
-### Protótipos adicionais 2 MyCar  
+### Protótipos adicionais II  
 Tela de login e perfil do usuário com acesso às configurações e veículos cadastrados.
 
 ![Telas adicionais 2 MyCar](Telas%20adicionais%202%20MyCar.jpg)
