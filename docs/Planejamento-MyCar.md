@@ -136,5 +136,51 @@ Requisitos Não Funcionais implementados:
 ### **TOTAL ESTIMADO PARA 1 ANO DE DESENVOLVIMENTO:**  
 # **R$ 475.200**
 
+---
+
+### Detalhes Adicionais (Arquitetura e Monetização)
+
+## Arquitetura Inicial do Sistema:
+> Front-end (Aplicativo Mobile)
+
+- Framework: Flutter (Android + iOS)
+- Linguagem: Dart
+- Gerenciamento de estado: Provider / Riverpod
+- Notificações: Firebase Cloud Messaging (FCM)
+- Armazenamento local: Hive ou SharedPreferences
+
+> Back-end
+
+- Plataforma: Firebase ou Supabase
+- Autenticação: Firebase Auth / OAuth 2.0
+- APIs: Funções serverless (Cloud Functions)
+- Banco de dados: Firestore (Firebase) ou PostgreSQL (Supabase)
+- Storage: Firebase Storage / Supabase Storage
+
+## Modelos de Monetização:
+> O MyCar terá um modelo híbrido de monetização, combinando assinatura premium, parcerias e serviços adicionais. O objetivo é gerar receita recorrente e ampliar o ecossistema do aplicativo
+
+1. Versão Gratuita (Free)
+
+- Acesso básico com funcionalidades essenciais:
+- Cadastro de veículos
+- Registro simples de manutenções
+- Lembretes limitados
+- Histórico básico
+- Backup mensal
+- A versão gratuita serve para atrair usuários e validar o produto.
+
+2. Versão Premium (Assinatura Mensal ou Anual)
+
+- Plano pago com recursos avançados:
+- Notificações ilimitadas
+- Relatórios completos de despesas
+- Gráficos e análises automáticas
+- Exportação de dados (PDF/CSV)
+- Backup diário
+- Multiveículos (nº maior permitido)
+- Suporte prioritário
+- Personalização de lembretes e dashboards
+
 
 
