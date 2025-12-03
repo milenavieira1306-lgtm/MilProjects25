@@ -138,9 +138,9 @@ Requisitos Não Funcionais implementados:
 
 ---
 
-### Detalhes Adicionais (Arquitetura e Monetização)
+## Detalhes Adicionais (Arquitetura e Monetização)
 
-## Arquitetura Inicial do Sistema:
+### Arquitetura Inicial do Sistema:
 > Front-end (Aplicativo Mobile)
 
 - Framework: Flutter (Android + iOS)
