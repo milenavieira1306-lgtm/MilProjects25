@@ -103,7 +103,7 @@ Requisitos Não Funcionais implementados:
 
 ---
 
-## **6. How — Como será feito?**
+## **6. How -- Como será feito?**
 - Metodologia ágil (Scrum + Kanban)  
 - Sprints de 2 semanas  
 - Entregas programadas para cada marco  
