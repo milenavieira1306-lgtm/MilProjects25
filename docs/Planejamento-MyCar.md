@@ -136,8 +136,6 @@ Requisitos Não Funcionais implementados:
 ### TOTAL ESTIMADO PARA 1 ANO DE DESENVOLVIMENTO: 
 # R$ 475.200
 
----
-
 ## Detalhes Adicionais (Arquitetura e Monetização)
 
 ### Arquitetura Inicial do Sistema:
